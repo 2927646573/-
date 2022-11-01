@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.servlet.multipart.max-file-size=10MB",
+      "type": "java.lang.String",
+      "description": "Description for spring.servlet.multipart.max-file-size=10MB."
+    },
+    {
+      "name": "spring.user.address.max-count",
+      "type": "java.lang.String",
+      "description": "Description for spring.user.address.max-count."
+    }
+  ] }
